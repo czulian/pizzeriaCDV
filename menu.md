@@ -20,7 +20,7 @@
 
 ## Pizze Wegetariańskie
 
-<img src = "grafiki github/lisc.jpg" width = 300>
+<img src = "grafiki github/lisc.jpg" width = 300> 
 
 |Lp. |Pizza:                                                                  |rozmiar: |30 cm |50 cm |60 cm|
 |---|-------------------------------------------------------------------------|---------|------|------|-----| 
