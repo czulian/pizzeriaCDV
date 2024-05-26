@@ -2,6 +2,6 @@
 
 ## Kierownik
 
-# Dostawca
+## Dostawca
 
 ## Grafik
