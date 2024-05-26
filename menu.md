@@ -2,7 +2,7 @@
 
 ## Pizze klasyczne
 
-<img src = "grafiki github/domowa_pizza-scaled.jpg" width = 600>
+<img src = "grafiki github/domowa_pizza-scaled.jpg" width = 300>
 
 |Lp. |Pizza:                                                                  |rozmiar: |30 cm |50 cm |60 cm|
 |---|-------------------------------------------------------------------------|---------|------|------|-----| 
