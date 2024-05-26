@@ -77,6 +77,8 @@
 
 ## Dodatki
 
+<img src = "grafiki github/chrupiace-frytki-z-batatow.jpg" width = 200>
+
 1. Łódeczki z zmieniaków - 14 zł
 2. Frytki z batatów - 18 zł
 3. Krewetki w tempurze - 25 zł
