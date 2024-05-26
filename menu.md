@@ -2,7 +2,7 @@
 
 ## Pizze klasyczne
 
-<img src = "img/domowa_pizza-scaled.jpg" width = 600>
+<img src = "grafiki github/domowa_pizza-scaled.jpg" width = 600>
 
 |Lp. |Pizza:                                                                  |rozmiar: |30 cm |50 cm |60 cm|
 |---|-------------------------------------------------------------------------|---------|------|------|-----| 
@@ -20,7 +20,7 @@
 
 ## Pizze Wegetariańskie
 
-<img src = "img/lisc.jpg" width = 400>
+<img src = "grafiki github/lisc.jpg" width = 300>
 
 |Lp. |Pizza:                                                                  |rozmiar: |30 cm |50 cm |60 cm|
 |---|-------------------------------------------------------------------------|---------|------|------|-----| 
@@ -33,7 +33,7 @@
 
 ## Pizza calzone - zawinięta w pieróg
 
-<img src = "img/eghem.jpg" width = 300>
+<img src = "grafiki github/eghem.jpg" width = 300>
 
 |Lp.| calzone:                                                                |rozmiar: |mały  |średni|duży |
 |---|-------------------------------------------------------------------------|---------|------|------|-----| 
@@ -44,7 +44,7 @@
 
 ## Makarą
 
-<img src = "img/makaroni.jpg" width = 300>
+<img src = "grafiki github/makaroni.jpg" width = 300>
 
 |Lp.|makarą:                                                                  |porcja:  |mały (300g)  |średni (500g) |
 |---|-------------------------------------------------------------------------|---------|-------------|--------------| 
@@ -56,7 +56,7 @@
 
 ## Sałatki
 
-<img src = "img/lekka-salatka.jpg" width = 300>
+<img src = "grafiki github/lekka-salatka.jpg" width = 300>
 
 1. Cesar (sałata, cebula, oliwa z oliwek, pomidor) - 15 zł
 2. Grecka (sałata, cebula, oliwa z oliwek, pomidor, oliwki, feta) - 20zł
@@ -66,7 +66,7 @@
 
 ## Jaki sos wariacie?
 
-<img src = "img/sosiwo wariacie.jpg" width = 300>
+<img src = "grafiki github/sosiwo wariacie.jpg" width = 300>
 
 1. Czoskowy - 5ł
 2. BBQ - 5zł
@@ -76,7 +76,7 @@
 
 ## Drineczki
 
-<img src = "img/pipita.jpg" width = 300>
+<img src = "grafiki github/pipita.jpg" width = 300>
 
 |Lp.| Drinki:                                                                 |ilość:   |    1 shot   |    2 shoty   |
 |---|-------------------------------------------------------------------------|---------|-------------|--------------| 
