@@ -74,6 +74,15 @@
 4. majo-mango  - 5zł
 5. sezamowy - 5zł
 
+
+## Dodatki
+
+1. Łódeczki z zmieniaków - 14 zł
+2. Frytki z batatów - 18 zł
+3. Krewetki w tempurze - 25 zł
+
+
+
 ## Drineczki
 
 <img src = "grafiki github/pipita.jpg" width = 300>
