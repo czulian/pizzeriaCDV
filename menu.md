@@ -18,6 +18,19 @@
 |10.|ŚWINKA (sos pomidorowy, ser, pulled pork, sos bbq)                       |         |32 zł |36 zł |48 zł|
 
 
+## Pizze Wegetariańskie
+
+<img src = "grafiki github/lisc.jpg" width = 300>
+
+|Lp. |Pizza:                                                                  |rozmiar: |30 cm |50 cm |60 cm|
+|---|-------------------------------------------------------------------------|---------|------|------|-----| 
+|1. |MARGARITTA (sos pomidorowy, ser, oregano)                                |         |20 zł |25 zł |30 zł| 
+|2. |FUNGHI (sos pomidorowy, ser, pieczarki)                                  |         |22 zł |27 zł |32 zł|
+|3. |W3G3TARIAŃSKA (sos pomidorowy, ser wegański, kukurydza, papryka, oregano)|         |27 zł |34 zł |40 zł|
+|4. |GÓRALSKA WEGE (sos pomidorowy, ser oscypek, żórawina)                    |         |29 zł |34 zł |42 zł|
+|5. |KURCZAKOWA OSZUKANA (sos pomidorowy, ser, kurczak sojowy, kukurydza)     |         |30 zł |34 zł |45 zł|
+
+
 ## Pizza calzone - zawinięta w pieróg
 
 <img src = "grafiki github/eghem.jpg" width = 300>
@@ -38,6 +51,17 @@
 |1. |BIAŁY DUCH (sos beszamelowy, ser, kurczak, pieczarki)                    |         |     26 zł   |    32 zł     | 
 |2. |TO CZERWONE (sos boloński, ser parmegiano regiano)                       |         |     25 zł   |    30 zł     |
 |3. |TO ZIELONE (sos pesto, ser buratta, pomidorki koktajlowe)                |         |     23 zł   |    29 zł     |
+
+
+
+## Sałatki
+
+<img src = "grafiki github/lekka-salatka.jpg" width = 300>
+
+1. Cesar (sałata, cebula, oliwa z oliwek, pomidor) - 15 zł
+2. Grecka (sałata, cebula, oliwa z oliwek, pomidor, oliwki, feta) - 20zł
+3. Hiszpańska (sałata, cebula, oliwa z oliwek, pomidor, oliwki, mozarella) - 25zł
+
 
 
 ## Jaki sos wariacie?
