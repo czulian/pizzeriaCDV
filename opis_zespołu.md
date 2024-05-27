@@ -12,6 +12,8 @@ Adam Wysocki
 
 ## Grafik
 
+Zuzanna Pisadło
+
 ## Kucharz
 
 Bartosz Nowak
