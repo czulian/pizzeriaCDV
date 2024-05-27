@@ -19,3 +19,7 @@ Zuzanna Pisadło
 Bartosz Nowak
 
 ## Obsługa
+
+Adam Pomagacz
+
+Katarzyna Kowadło
