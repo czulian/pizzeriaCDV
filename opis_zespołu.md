@@ -8,6 +8,8 @@ Jan Kowalski
 
 ## Dostawca
 
+Adam Wysocki
+
 ## Grafik
 
 ## Kucharz
